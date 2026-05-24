@@ -1,1 +1,1 @@
-"# electron-app" 
+"# my-electron-app" 
